@@ -1,0 +1,12 @@
+.footer {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:aquamarine;
+    color:black;
+}
+.footer span {
+    font-weight: bold;
+    color:deeppink;
+}
